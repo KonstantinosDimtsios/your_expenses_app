@@ -5,7 +5,7 @@
   - A log like display of the products purchased with all the previous details depending on the year.
   - A graphical display of how you distributed your money each month for each year dynamically
 
-:sparkles: New feature Some nice ideas and possible future updates of this app!
+:sparkles: Some nice ideas and possible future updates of this app!
 
   - Add a remove-edit feature of an expense.
   - Upgrade and connect to a small database.
