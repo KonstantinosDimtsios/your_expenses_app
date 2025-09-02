@@ -20,7 +20,7 @@
 
 :warning: Caution, once you download the app you need to run in your Visual Studio Code terminal the following commands:
 
-  -npm install (in order to install various app dependancies)
-  -npm start (in order to get the app running)
+  - npm install (in order to install various app dependancies)
+  - npm start (in order to get the app running)
 
 Special thanks to mr Maximilian Schwarzmüller and his react course!
