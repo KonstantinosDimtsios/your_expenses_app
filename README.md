@@ -11,4 +11,16 @@
   - Upgrade and connect to a small database.
   - Implement dynamic personalised decoration options.
 
+:hammer_and_wrench: This project was made using the following:
+
+  - VS Code
+  - html
+  - css
+  - React
+
+:warning: Caution, once you download the app you need to run in your Visual Studio Code terminal the following commands:
+
+  -npm install (in order to install various app dependancies)
+  -npm start (in order to get the app running)
+
 Special thanks to mr Maximilian Schwarzmüller and his react course!
