@@ -1,5 +1,5 @@
 # your_expenses_app
-:white_check_mark: Completed This application was made for educational purposes while studying react in Udemy. Bellow you can find some features of the app!
+:white_check_mark: This application was made for educational purposes while studying react in Udemy. Bellow you can find some features of the app!
 
   - A simple way to add the name, price and date of purchase of a specific product.
   - A log like display of the products purchased with all the previous details depending on the year.
